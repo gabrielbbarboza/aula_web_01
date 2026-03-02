@@ -1,0 +1,10 @@
+
+const msg = "O mundo é uma bomba";
+console.log(msg);
+
+let A = 5;
+let B = 10;
+let C = A + B;
+
+console.log(`A soma entre ${A} e ${B} é igual a ${C}`);
+
